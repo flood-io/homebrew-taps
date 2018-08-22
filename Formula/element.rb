@@ -4,7 +4,7 @@ class Element < Formula
   desc "Flood Element CLI"
   homepage "https://github.com/flood-io/element"
   url "https://registry.npmjs.org/@flood/element-cli/-/element-cli-1.0.3-25.tgz"
-  sha256 "e2ec8b13d59e6cb6184674479b42d83455833e52c43b11c6eaca7d87b6b698de"
+  sha256 "189deea879f80519e4cd8500797cab8710069149a934effd8261db878630cfc4"
 
   depends_on "node"
   # uncomment if there is a native addon inside the dependency tree
