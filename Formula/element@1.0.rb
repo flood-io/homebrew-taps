@@ -4,8 +4,8 @@ require "language/node"
 class ElementAT10 < Formula
   desc "Flood Element CLI"
   homepage "https://github.com/flood-io/element"
-  url "https://registry.npmjs.org/@flood/element-cli/-/element-cli-1.0.3-62.tgz"
-  sha256 "8ac78eb57db5a789eee2948dc17f6a7e8b9062a8867abc9d9a71250bbcdf7b03"
+  url "https://registry.npmjs.org/@flood/element-cli/-/element-cli-1.0.3-63.tgz"
+  sha256 "7df89e78f4a2465dbf10a5b739804b989ed96b2157c8cbd8fa80fe70ac3d29bf"
 
   depends_on "node"
   # uncomment if there is a native addon inside the dependency tree
