@@ -1,7 +1,7 @@
 
 require "language/node"
 
-class ElementATbeta < Formula
+class ElementAT002Beta5 < Formula
   desc "Flood Element CLI"
   homepage "https://github.com/flood-io/element"
   url "https://registry.npmjs.org/@flood/element-cli/-/element-cli-0.0.2-beta.5.tgz"
