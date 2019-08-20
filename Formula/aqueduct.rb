@@ -5,7 +5,7 @@ class Aqueduct < Formula
   homepage "https://aqueduct.flood.io"
   url "https://s3.amazonaws.com/flood-aqueduct/aqueduct/stable/aqueduct-stable-darwin-amd64"
   version "stable"
-  sha256 "5092201fa7fcf478a7c41864ce6c7ad3f3344fe89ae17a4e01ae4c53e8a2e46c"
+  sha256 "098198dbc77921e4ace46247c2e43c2a23b75989d3c323c96577755e79bbdb32"
 
   def install
     system "cp", "aqueduct-stable-darwin-amd64", "aqueduct"
