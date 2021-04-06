@@ -12,4 +12,6 @@ class Flood < Formula
   test do
     system bin/"flood", "version"
   end
+
+  disable! date: "2021-04-06", because: :unmaintained
 end

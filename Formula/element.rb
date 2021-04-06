@@ -19,4 +19,6 @@
     test do
       # add a meaningful test here
     end
+
+    disable! date: "2021-01-22", because: :unmaintained
   end
