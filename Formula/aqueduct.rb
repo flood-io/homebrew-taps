@@ -15,4 +15,6 @@ class Aqueduct < Formula
   test do
     system bin/"aqueduct", "version"
   end
+
+  disable! date: "2020-09-01", because: :unmaintained
 end
