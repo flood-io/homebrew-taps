@@ -20,5 +20,5 @@
       # add a meaningful test here
     end
 
-    disable! date: "2021-01-22", because: :unmaintained
+    disable! date: "2021-01-22", because: "is no longer distributed through Homebrew"
   end
