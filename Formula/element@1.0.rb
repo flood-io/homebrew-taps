@@ -19,4 +19,6 @@ class ElementAT10 < Formula
   test do
     # add a meaningful test here
   end
+
+  disable! date: "2020-04-01", because: :unmaintained
 end
